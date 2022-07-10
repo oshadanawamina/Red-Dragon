@@ -30,7 +30,7 @@ global.ownername = 'OSHADA NAWAMINA' //Owner Name
 global.botname = 'KING NAWIYA🤖' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/G76AKEICgT4' //Change Your Button's URL
+global.btnurl = 'https://chat.whatsapp.com/ImQmyySHJ8g0ia8vaWEZEL' //Change Your Button's URL
 
 global.region = 'srilanka' //Country Region
 
@@ -54,8 +54,8 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    wait: '👉👈ටිකක් ඉන්න...',
+    error: 'error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\
@@ -72,7 +72,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu.jpg')
+global.thumb = fs.readFileSync('./nawi Media/image/king-_-nawiya-oshada.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
